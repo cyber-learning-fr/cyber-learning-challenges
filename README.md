@@ -16,28 +16,27 @@ Cyber-Learning.fr est une plateforme éducative dédiée à l'apprentissage en l
 
 ## Solutions
 
-A suivre...
-
-1+1=10
-Base 16
-Octal
-GaBu ?
-C'est signé !
-Le monde se divise en 10 catégories
-Et ca fait quoi ?
-Disjonction inclusive
-La Mantisse Prend la Float
-Télégraphe
-EAD+GB+E
-Base 5 ? oui base 5 !
-Reverse Hexadecimal
-Tu comptes comment Tao ?
-Boby comptait en bibi !
-Voyage voyage !
-Petits bâtons lumineux
-Diagonale d'un carré ????
-Base Totof
-Base tournante
-Base 65
++ A suivre...
++ 1+1=10
++ Base 16
++ Octal
++ GaBu ?
++ C'est signé !
++ Le monde se divise en 10 catégories
++ Et ca fait quoi ?
++ Disjonction inclusive
++ La Mantisse Prend la Float
++ Télégraphe
++ EAD+GB+E
++ Base 5 ? oui base 5 !
++ Reverse Hexadecimal
++ Tu comptes comment Tao ?
++ Boby comptait en bibi !
++ Voyage voyage !
++ Petits bâtons lumineux
++ Diagonale d'un carré ????
++ Base Totof
++ Base tournante
++ Base 65
 
 
