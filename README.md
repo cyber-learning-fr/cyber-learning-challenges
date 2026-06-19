@@ -2,11 +2,13 @@
 
 Bienvenue sur le dépôt GitHub du site [Cyber-Learning.fr](https://cyber-learning.fr) !
 
-Cyber-Learning.fr est une plateforme éducative dédiée à l'apprentissage en ligne, spécialement conçue pour les étudiants et enseignants en informatique. Elle propose des ressources, des exercices interactifs et des outils pour améliorer les compétences en développement web, bases de données, et bien plus encore.
+Cyber-Learning.fr est une plateforme éducative dédiée à l'apprentissage de la cyber-sécurité en ligne, spécialement conçue pour les étudiants et enseignants en informatique. Elle propose des ressources, des exercices interactifs et des outils pour améliorer les compétences en développement web, bases de données, et bien plus encore.
+L'originalité de cette plateforme : chaque challenge possède une solution unique générée à la volée pour chaque joueur.
+Donc aucune solution ne se trouve sur internet. Les élèves/joueurs ne peuvent que s'échanger des méthodes.
 
 ---
 
-## 🚀 Fonctionnalités
+## 🚀 Fonctionnalités privées
 
 - **TP/TD interactifs** : Des contenus pédagogiques clairs et organisés par niveaux et thématiques.
 - **Exercices pratiques** : Des exercices pour s'entraîner et approfondir ses connaissances en cyber sécurité.
@@ -14,7 +16,7 @@ Cyber-Learning.fr est une plateforme éducative dédiée à l'apprentissage en l
 
 ---
 
-## Solutions
+## Solutions CTF cyber-learning.fr
 
 + 13 rotations ?	
 + 13375P34K	
